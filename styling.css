@@ -11,6 +11,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     width: 80%; /* Adjust as needed */
+    height: 80%;
     max-width: 800px; /* Limit the maximum width */
     justify-content: space-between;
   }
@@ -21,7 +22,7 @@ body {
     background-color: #f1f1f1;
     border: 1px solid #ccc;
     box-sizing: border-box;
-    height: 30vh;
+    height: auto;
     border-radius: 10px;
     object-fit: contain;
   }
@@ -34,7 +35,7 @@ body {
   }
   .flex-item img {
     display: block;
-    margin: 20% auto auto auto;
+    margin: 20% auto 20% auto;
     width: 50%;
     height: auto;
   }
