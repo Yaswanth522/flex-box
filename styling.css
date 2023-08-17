@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    display: flex;
+    display: flex;/*display*/
     justify-content: center;
     align-items: center;
     min-height: 100vh;
