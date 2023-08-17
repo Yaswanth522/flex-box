@@ -30,6 +30,7 @@ body {
 
   .flex-item-tag {
     width: calc(33.33% - 20px); /* Adjust the width as needed */
+    font-size: 10px;
     margin: 5px;
     text-align: center;
     height: 5vh;
